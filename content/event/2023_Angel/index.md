@@ -25,7 +25,7 @@ date_end:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: []
+publishDate: ''
 
 authors: [Ángel Rodriguez Rozas (Banco Santander)]
 tags: []
