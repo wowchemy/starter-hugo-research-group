@@ -1,6 +1,6 @@
 ---
 title: Example Event
-
+type: event
 event: Wowchemy Conference
 event_url: https://example.org
 
